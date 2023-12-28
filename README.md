@@ -5,7 +5,7 @@
 This dataset is a fictional retail landscape, capturing essential attributes that drive retail operations and customer interactions. 
 It includes key details such as Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, and Total Amount. 
 These attributes enable a multifaceted exploration of sales trends, demographic influences, and purchasing behaviors.
-The dataset can be downloaded from kaggle via this [link](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/data)
+The dataset can be downloaded from kaggle via this [link](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/data). The website is a reliable source for any kind of data.
 
 **Questions to Explore from this dataset includes:
 
@@ -16,3 +16,15 @@ What are the relationships between age, spending, and product preferences?
 How do customers adapt their shopping habits during seasonal trends?
 Are there distinct purchasing behaviors based on the number of items bought per transaction?
 What insights can be gleaned from the distribution of product prices within each category?
+
+##### Preparing the data
+
+The dataset for this project was downloaded into the local system from kaggle. The dataset is in Csv format.<br>
+To start processing the data, first the data must be inspected for any form of data anomalies cause this could hinder the analysis. In cleaning the data, i ensure that downloaded data was imported to powerquerry, to achieve that i used this process:
+* launched the powerbi tool
+* click on Get data > Text/csv
+* locate the saved downloaded dataset > click OK
+A large dialog box with data table will be displayed, inspect to ensure its the correct dataset before clicking on Transform data. <br>
+These would import the data into the powerquery, where data transformation will be carried out. 
+
+
