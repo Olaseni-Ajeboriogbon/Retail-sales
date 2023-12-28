@@ -46,11 +46,11 @@ To extract Month column from date column<br>
 * click on the age column
 * click on Add column
 * select extract from the ribbon
-this would create the month_no column, After creating the Month_no column, A conditional statement would be use to create create the month column.
-    Month_no      |     Month
-:----------------:|:-------------------:
- ![]()            | ![]()
-
 * click on text between delimiters
+
+this would create the month_no column, After creating the Month_no column, A conditional statement would be use to create create the month column.
+    Month_no          |     Month           |    Month_name
+:--------------------:|:-------------------:|:----------------:
+ ![](extract.png)    | ![](month_no.png)    | ![](conditional_.png)
 
 
