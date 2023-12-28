@@ -49,10 +49,20 @@ To extract the Month column from the date column<br>
 * click on the _text between delimiters_
 
 These steps would create the Month_no column, After creating the Month_no column, apply A conditional statement which would be used to create the month column.<br>
-When these process have been completed, click on _close & apply_ to apply all changes to the data table.
+When these process have been completed, click on _close & apply_ to apply all changes to the data table in powerBi.
     Extraction        |     Month_no        |    Month_name         |   Loaded 
 :--------------------:|:-------------------:|:---------------------:|:--------------------:
  ![](extract.png)     | ![](month_no.png)   | ![](conditional_.png) | ![](loaded.png) 
+
+ To create the Age_group column: 
+ * click on the _Table view_ tab on the powerbi
+ * click on the _Age_ column
+ * click on the _Data Groups_ on the ribbon
+ * select _New data_ group
+ * input the necessary details on the data dialog box and click OK.
+
+ To create the season column, we make use of the conditional statement just the same process as Month_name.
+ ![](season.png)
 
 
 
