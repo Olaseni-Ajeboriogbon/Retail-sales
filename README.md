@@ -30,7 +30,7 @@ These would import the data into the power-query, where data transformation will
 
 #### Cleaning the data
 
-it's important to clean data to increase the overall productivity and allow for the highest quality information that would drive decision making. things to look out for in cleaning data include duplicates, incorrect datatypes, typographical errors, etc.
+it's important to clean data to increase overall productivity and allow for the highest quality information that would drive decision-making. things to look out for in cleaning data include duplicates, incorrect datatypes, typographical errors, etc.
 To clean this data follow these steps:
 
 * click on the transation ID column > right-click on it > select remove duplicates
@@ -42,11 +42,11 @@ on inspecting this data, there were no form of errors and the datatypes are corr
 #### Transform the data
 While converting the data, I generated additional columns (months, age group, month number, season) to facilitate my analysis and empower me to extract valuable insights. I implemented the following steps to accomplish this:
 
-To extract Month column from date column<br>
+To extract the Month column from the date column<br>
 * click on the age column
-* click on Add column
-* select extract from the ribbon
-* click on text between delimiters
+* click on _Add column_
+* select _Extract_ from the ribbon
+* click on the _text between delimiters_
 
 this would create the month_no column, After creating the Month_no column, A conditional statement would be used to create the month column.
     Extraction        |     Month_no        |    Month_name
