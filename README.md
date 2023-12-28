@@ -48,9 +48,12 @@ To extract the Month column from the date column<br>
 * select _Extract_ from the ribbon
 * click on the _text between delimiters_
 
-this would create the month_no column, After creating the Month_no column, A conditional statement would be used to create the month column.
-    Extraction        |     Month_no        |    Month_name
-:--------------------:|:-------------------:|:----------------:
- ![](extract.png)     | ![](month_no.png)   | ![](conditional_.png)
+These steps would create the Month_no column, After creating the Month_no column, apply A conditional statement which would be used to create the month column.<br>
+When these process have been completed, click on _close & apply_ to apply all changes to the data table.
+    Extraction        |     Month_no        |    Month_name         |   Loaded 
+:--------------------:|:-------------------:|:---------------------:|:--------------------:
+ ![](extract.png)     | ![](month_no.png)   | ![](conditional_.png) | ![](loaded.png) 
+
+
 
 
