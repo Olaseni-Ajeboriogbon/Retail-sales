@@ -17,7 +17,7 @@ How do customers adapt their shopping habits during seasonal trends?
 Are there distinct purchasing behaviors based on the number of items bought per transaction?
 What insights can be gleaned from the distribution of product prices within each category?
 
-##### Preparing the data
+#### Preparing the data
 
 The dataset for this project was downloaded into the local system from Kaggle. The dataset is in CSV format.<br>
 To start processing the data, first, the data must be inspected for any form of data anomalies cause this could hinder the analysis. In cleaning the data, I ensured that downloaded data was imported to Powerquerry, to achieve that I used this process:
@@ -28,7 +28,7 @@ To start processing the data, first, the data must be inspected for any form of 
 A large dialog box with a data table will be displayed, inspect to ensure it's the correct dataset before clicking on Transform data. <br>
 These would import the data into the power-query, where data transformation will occur.
 
-#### Cleaning the data
+### Cleaning the data
 
 it's important to clean data to increase overall productivity and allow for the highest quality information that would drive decision-making. things to look out for in cleaning data include duplicates, incorrect datatypes, typographical errors, etc.
 To clean this data follow these steps:
@@ -39,7 +39,7 @@ Next, check for incorrect spelling and errors.
 Also, check the datatypes if they are in their correct format.
 on inspecting this data, there were no form of errors and the datatypes are correct, hence there is not much to be done.
 
-#### Transform the data
+### Transform the data
 While converting the data, I generated additional columns (months, age group, month number, season) to facilitate my analysis and empower me to extract valuable insights. I implemented the following steps to accomplish this:
 
 To extract the Month column from the date column<br>
@@ -64,6 +64,23 @@ When these process have been completed, click on _close & apply_ to apply all ch
  To create the season column, we make use of the conditional statement just the same process as Month_name.
  ![](season.png)
 
+### Visualization
+
+  Front Page               | Age_Gender               | Monthly_Analysis           | Product_categories         
+:-------------------------:|:------------------------:|:--------------------------:|:---------------------------:|
+![](/retail/page_one.png)  | ![](/retail/page_two.png)| ![](/retail/page_three.png)| ![](/retail/page_four.png)
+    
+
+
+The visuals from this report consist of four pages, which give answers to the following questions:
+
+* How do customer' age and gender influence their purchasing behavior?
+* Are there discernible patterns in sales across different periods?
+* Which product categories hold the highest appeal among customers?
+* What are the relationships between age, spending, and product preferences?
+* How do customers adapt their shopping habits during seasonal trends?
+* Are there distinct purchasing behaviors based on the number of items bought per transaction?
+* What insights can be gleaned from the distribution of product prices within each category?
 
 
 
