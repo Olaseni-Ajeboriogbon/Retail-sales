@@ -100,7 +100,9 @@ The clothing category is the most appealing to customers, with a total transacti
 
 Customers tend to do more shopping in the fall, while summer sees the least amount of transactions. Transaction activity increased from March, reached its peak in May, and then declined. The month of May generated more revenue from sales. In the fall, customers tend to spend more on buying electronic items, followed by clothing.
 
-Conclusion and recommendation:
+Conclusion and Recommendation:
+
+Based on observations, customers tend to allocate a higher expenditure on clothing, with electronics following closely. Electronic products contribute more to revenue than clothing. Females constitute the majority of customers and exhibit higher spending in the categories of clothing and beauty. On the other hand, males tend to spend more on electronics and beauty. However, additional information is required to categorize customers more precisely. Additionally, there is insufficient data for individuals between the ages of 18-20.
 
 
 
