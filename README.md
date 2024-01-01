@@ -66,9 +66,9 @@ When these process have been completed, click on _close & apply_ to apply all ch
 
 ### Visualization
 
-  Front Page               | Age_Gender               | Monthly_Analysis           | Product_categories         
-:-------------------------:|:------------------------:|:--------------------------:|:---------------------------:|
-![](/retail/page_one.png)  | ![](/retail/page_two.png)| ![](/retail/page_three.png)| ![](/retail/page_four.png)
+  Front Page                 | Age_Gender               | Monthly_Analysis           | Product_categories         
+:---------------------------:|:------------------------:|:--------------------------:|:---------------------------:|
+ ![](/retail/front_page.png) | ![](/retail/page_two.png)| ![](/retail/page_three.png)| ![](/retail/page_four.png)
     
 
 
@@ -81,6 +81,26 @@ The visuals from this report consist of four pages, which give answers to the fo
 * How do customers adapt their shopping habits during seasonal trends?
 * Are there distinct purchasing behaviors based on the number of items bought per transaction?
 * What insights can be gleaned from the distribution of product prices within each category?
+
+#### Customers by Age-Group and Gender
+
+  Frame One                          | Frame Two
+:-----------------------------------:|:--------------------------------:
+![](/retail/Age_groupQuuantity.png)  | ![](/retail/Age_group_one.png)
+
+The examination reveals that the majority of customers fall within the age range of their forties and fifties, with females constituting the largest segment. Among these, those in their fifties exhibit the highest spending, followed by individuals in their twenties and thirties. Despite some variations, the spending patterns among customers aged twenty to fifty show relatively little difference.
+
+#### Product categories
+![](/retail/page_four.png)
+
+The clothing category is the most appealing to customers, with a total transaction count of 352, followed by Electronics with 342 transactions. Regarding product categories, men tend to spend more on electronics and beauty, whereas women allocate higher expenditures to clothing and beauty.
+
+#### Monthly and seasonal Pattern
+![](/retail/page_three.png)
+
+Customers tend to do more shopping in the fall, while summer sees the least amount of transactions. Transaction activity increased from March, reached its peak in May, and then declined. The month of May generated more revenue from sales. In the fall, customers tend to spend more on buying electronic items, followed by clothing.
+
+Conclusion and recommendation:
 
 
 
